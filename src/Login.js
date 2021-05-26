@@ -10,9 +10,9 @@ export default class Login extends Component {
                     {/* Textstyle and positioning Section 1 */}
                     <div className="opener-text">
                     <h3 className="text-style">
-                        Welcome Back
+                        Welcome Back Asadbek
                     </h3>
-                    <p className="p-style">Login Back into your account</p>
+                    <p className="p-style">Login Back into your account bugugngi o'zgartirsh Asadbek tomonidan kiritildi!</p>
                     </div>
                     {/* Section 2 */}
                     <div className="login-box">
