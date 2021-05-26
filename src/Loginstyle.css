@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header-top {
+    width: 400px;
+    height: 700px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    margin-bottom: 100px;
+
+    border-radius: 40px;
+}
+/* div opener-text style  */
+.text-style {
+    text-align: left;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.p-style {
+    text-align: left;
+    margin-bottom: 100px;
+    margin-top: 10px;
+    color: #E3E0DF;
+}
+/* login-box style */
+
+.login-box {
+    width: 350px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #3066E1;
+    padding: 20px;
+    margin: 8% auto 0;
+    border-radius: 90px 90px 90px 0;
+    position: relative;
+}
+.bg-color {
+    color: #fff;
+    margin-top: 30px;
+    margin-left: 7px;
+}
+.input-box {
+    margin-top: 50px;
+}
+.input-style {
+    padding: 20px 10px;
+    padding-left: 40px;
+    margin: 10px 0;
+    width: 80%;
+    background: transparent;
+    border: 1px solid #999;
+    outline: none;
+}
+.input-style::placeholder {
+    color: #fff;
+}
+.icon-style {
+    position: absolute;
+    left: 20px;
+    top: 25px;
+    color: #999;
+    font-size: 25px;
+}
+.input {
+    position: relative;
+}
+.left-p {
+    text-align: right;
+    color: #fff;
+    margin-right: 7px;
+}
+/* button style */
+.button-style {
+    padding: 15px;
+    margin: 10px 0;
+    width: 70%;
+    background: #fff;
+    border: 1px solid #999;
+    outline: none;
+    border-radius: 50px;
+    margin-top: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.img-style {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    border-radius: 0 50% 50% 50%;
+    background-position: center;
+    background-size: cover;
+    top: -25px;
+    right: 50px;
+}
+.page-bottom {
+    padding-top: 50px;
+}
+a {
+    text-decoration: none;
+}
+.camera-style {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: relative;
+    bottom: -30px;
+    right:-10px;
+    cursor: pointer;
+}
+.icon-style1 {
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-59%, -50%);
+}
+.img-left {
+    position: absolute;
+    right: 0;
+}
